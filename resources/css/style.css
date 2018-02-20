@@ -24,15 +24,29 @@ p{
   font-size: 14px;
 }
 
-.body div{
+h4{
+  color:white;
+  font-size: 23px
+  font-weight: bold;
+
+}
+
+.body {
   background-color: white;
 }
 
-.NY div{
+#NY{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   color: white;
+  font-size: 23px
+  font-weight: bold;
 }
 
-.header div{
+.header{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.header a{
+  color:white;
+  font-size: 18px
 }
